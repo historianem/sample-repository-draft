@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: https://digitalcollections.library.northwestern.edu/embedded-viewer/https%3A%2F%2Fiiif.dc.library.northwestern.edu%2Fpublic%2F32%2F31%2Fe2%2Fdd%2F-c%2F2e%2F7-%2F44%2F24%2F-8%2Ff7%2Ff-%2F1f%2F3a%2F09%2Ff7%2F7b%2F3e-manifest.json/image 
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
