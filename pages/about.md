@@ -15,5 +15,6 @@ credits: true
 ## About the Collection
 
 This sample collection was created as part of a digital history project organized by the Chabraja Center for Historical Studies at Northwestern University. 
-{% include feature/button.html text="Chabraja Center for Historical Studies Homepage" link="https://historicalstudies.northwestern.edu/index.html" color="success" %} 
+{% include feature/button.html text="Chabraja Center for Historical Studies Homepage" link="https://historicalstudies.northwestern.edu/index.html" color="info" %} 
+
 
